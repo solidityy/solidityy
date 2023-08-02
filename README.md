@@ -35,6 +35,7 @@
       <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitverse&show_icons=true&count_private=true&theme=tokyonight" alt="rohitverse's github stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitverse&theme=tokyonight" /> </p>
     </a>
     <a href="#"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitverse&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   
     <br>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 
@@ -43,8 +44,8 @@
   
 [![@rohitverse's Holopin board](https://holopin.io/api/user/board?user=rohitverse)](https://holopin.io/@rohitverse)
   
-   
-  <a href="https://github.com/rohitverse/github-readme-activity-graph"><img alt="Rohit Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rohitverse&theme=tokyonight" /></a>
+  
+   [![Rohit Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitverse)](https://github.com/rohitverse/github-readme-activity-graph)
 </p>
 
  <h3 align="center">
