@@ -34,10 +34,9 @@
     <a href="#">
       <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitverse&show_icons=true&count_private=true&theme=tokyonight" alt="rohitverse's github stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitverse&theme=tokyonight" /> </p>
     </a>
-    <a href="#"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitverse&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-   
-    <br>
+    <a href="#"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitverse&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a><br>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+    </br>
 
 #<h1>🐧Hacktoberfest Open Source Contributions🔗 </h1>
   
