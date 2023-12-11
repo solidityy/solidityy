@@ -18,14 +18,6 @@
 
 - ⚡ Fun fact **I Think I am Funny Xd**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-## 🔗 Links
-[![Github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/rohitverse)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/rohitscode)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rohitscode)
-</p>
-
 </p>
 
 <h3 align="left">Languages and Tools: </h3>
