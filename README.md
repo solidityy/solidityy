@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitscode" target="blank"><img src="https://img.shields.io/twitter/follow/rohitscode?logo=twitter&style=for-the-badge" alt="rohitscode" /></a> </p>
 
-- 🌱 I’m currently learning  **Smart Contract Auditing** 
+- 🌱 I’m currently learning  **Buidling <a href="https://opensources.network" target="_blank" rel="noreferrer">OSN </a>** 
 
 - 💬 Ask me about **Javascript, Solidity, Blockchain**
 
