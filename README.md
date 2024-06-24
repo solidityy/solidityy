@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning  **Buidling <a href="https://opensources.network" target="_blank" rel="noreferrer">OSN </a>** 
 
-- 💬 Ask me about **Javascript, Solidity, Blockchain**
+- 💬 Ask me about **Open-source, Javascript, Solidity, Blockchain**
 
 - ⚡ Fun fact **I Think I am Funny Xd**
 
