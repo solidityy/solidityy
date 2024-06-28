@@ -36,7 +36,7 @@
 #<h1>🐧Hacktoberfest Open Source Contributions🔗 </h1>
   
   
-[![@rohitscript's Holopin board](https://holopin.io/api/user/board?user=rohitscript)](https://holopin.io/@rohitscript)
+[![@rohitscript's Holopin board](https://holopin.io/api/user/board?user=rohitverse)](https://holopin.io/@rohitverse)
   
   
    [![Rohit Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitscript)](https://github.com/rohitscript/github-readme-activity-graph)
