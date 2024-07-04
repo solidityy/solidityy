@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitscript" target="blank"><img src="https://img.shields.io/twitter/follow/rohitscript?logo=twitter&style=for-the-badge" alt="rohitscript" /></a> </p>
 
-- 🌱 I’m currently learning  **Buidling <a href="https://opensources.network" target="_blank" rel="noreferrer">OSN </a>** 
+- 🌱 I’m currently learning  **SMART CONTRACT AUDITING** 
 
 - 💬 Ask me about **Open-source, Javascript, Solidity, Blockchain**
 
