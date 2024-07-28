@@ -1,16 +1,16 @@
 <h1 align="center">Hi👋, I'm KR ROHIT💙 </h1>
 <h3 align="center">A Passionate Full Stack Web3 Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitscript&label=Profile%20views&color=0e75b6&style=flat" alt="rohitscript" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=solidityy&label=Profile%20views&color=0e75b6&style=flat" alt="solidityy" /> </p>
 
 <p align="left "> 
 
 <p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=rohitscript&theme=onedark&row=1&column=8">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=solidityy&theme=onedark&row=1&column=8">
 </p>
 </a></p>
 
-<p align="left"> <a href="https://twitter.com/rohitscript" target="blank"><img src="https://img.shields.io/twitter/follow/rohitscript?logo=twitter&style=for-the-badge" alt="rohitscript" /></a> </p>
+<p align="left"> <a href="https://twitter.com/solidityy" target="blank"><img src="https://img.shields.io/twitter/follow/solidityy?logo=twitter&style=for-the-badge" alt="solidityy" /></a> </p>
 
 - 🌱 I’m currently learning  **SMART CONTRACT AUDITING** 
 
@@ -27,19 +27,19 @@
 
   <div align="center">
     <a href="#">
-      <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitscript&show_icons=true&count_private=true&theme=tokyonight" alt="rohitscript's github stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitscript&theme=tokyonight" /> </p>
+      <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=solidityy&show_icons=true&count_private=true&theme=tokyonight" alt="solidityy's github stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=solidityy&theme=tokyonight" /> </p>
     </a>
-    <a href="#"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitscript&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a><br>
+    <a href="#"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solidityy&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a><br>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
     </br>
 
 #<h1>🐧Hacktoberfest Open Source Contributions🔗 </h1>
   
   
-[![@rohitscript's Holopin board](https://holopin.io/api/user/board?user=rohitverse)](https://holopin.io/@rohitverse)
+[![@solidityy's Holopin board](https://holopin.io/api/user/board?user=rohitverse)](https://holopin.io/@rohitverse)
   
   
-   [![Rohit Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitscript)](https://github.com/rohitscript/github-readme-activity-graph)
+   [![Rohit Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solidityy)](https://github.com/solidityy/github-readme-activity-graph)
 </p>
 
  <h3 align="center">
